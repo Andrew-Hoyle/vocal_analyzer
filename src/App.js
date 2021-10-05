@@ -4,6 +4,7 @@ import { GoogleAuthProvider } from "firebase/auth";
 
 
 
+
 // Global provider instance of googleauth
 const provider = new GoogleAuthProvider();
 // Set up component
